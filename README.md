@@ -1,3 +1,5 @@
-"# bank-manage-c" 
-"# bank-manage-c" 
-"# bank-manage-c" 
+A SIMPLE BANK MANAGEMENT SYSTEM IN C LANG
+
+TECH STACK
+1. C 
+
